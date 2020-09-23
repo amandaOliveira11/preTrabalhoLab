@@ -1,0 +1,17 @@
+.corretas{
+    background-color: #aaa;
+    border-color: blue;
+    
+}
+
+.erradas{
+    background-color:#aaa;
+}
+
+section{
+    display: inline-block;
+}
+
+h2{
+    color: blue;
+}
